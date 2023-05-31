@@ -1,4 +1,4 @@
-# AWS-Cloud-Practitioner-Essentials
+# AWS-Cloud-Practitioner-Essentials-Quiz
 
 https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?dt=tile&tile=fdt
 
